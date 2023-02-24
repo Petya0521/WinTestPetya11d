@@ -1,0 +1,11 @@
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\bin\Debug\TestWinPetya.exe.config
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\bin\Debug\TestWinPetya.exe
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\bin\Debug\TestWinPetya.pdb
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\obj\Debug\TestWinPetya.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\obj\Debug\TestWinPetya.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\obj\Debug\TestWinPetya.Form1.resources
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\obj\Debug\TestWinPetya.Properties.Resources.resources
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\obj\Debug\TestWinPetya.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\obj\Debug\TestWinPetya.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\obj\Debug\TestWinPetya.exe
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TestWinPetya\TestWinPetya\obj\Debug\TestWinPetya.pdb
